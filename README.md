@@ -325,3 +325,4 @@ Use optimization tools responsibly and keep backups of important settings.
 **Delta Force Optimizer** • Delta Force Lag Fix • Delta Force Stutter Fix • Delta Force Input Lag • Delta Force Crash Fix • Delta Force Launch Fix • Delta Force Performance • Delta Force Frame-Time • Delta Force Windows 11 • Delta Force Warfare • Delta Force Operations • Gaming Performance • Frame Pacing • Windows Optimization
 
 </details>
+                                                                                                    
